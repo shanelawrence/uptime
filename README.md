@@ -5,5 +5,5 @@ Must have a python runtime environment
 
 Navigate to the directory and execute with: python .\uptime.py
 
-To run fully udetectable (FUD) Try: nohup python uptime.py >>&/dev/null &
+To run fully undetectable (FUD) Try: nohup python uptime.py >>&/dev/null &
 
